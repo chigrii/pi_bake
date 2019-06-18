@@ -15,7 +15,7 @@ The following packages will be installed,
 - tightvncserver
 
 ```bash
-cd {YOUR_WORKSPACE}/pi_bake
+cd ~/{YOUR_WORKSPACE}/pi_bake
 ./install_tools.sh
 ```
 
